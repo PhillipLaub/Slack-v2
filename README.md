@@ -1,3 +1,11 @@
+# Slack - Clone
+
+![Login](public/login.png)
+
+![Auth](public/auth.png)
+
+![Chat](public/chat.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
