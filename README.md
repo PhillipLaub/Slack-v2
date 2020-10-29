@@ -1,5 +1,7 @@
 # Slack - Clone
 
+Deployed Site: [Slack - Clone](https://slackv2-66a7b.web.app/)
+
 ![Login](public/login.png)
 
 ![Auth](public/auth.png)
